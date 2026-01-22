@@ -1,2 +1,8 @@
 # healthcare-readmission-analysis
 End-to-end healthcare readmission analysis using Python, EDA, and logistic regression.
+**📌 Project Overview** - This project analyzes healthcare patient data to identify key factors contributing to hospital readmissions within 30 days of discharge. The objective is to understand readmission patterns and provide actionable insights to improve patient care and reduce repeat hospitalizations.
+**Tools & Technologies Used** : SQL – (data querying, aggregation, and risk identification),Python (pandas, matplotlib, seaborn, sklearn) – EDA, visualization, feature engineering, and modeling- Logistic Regression – baseline predictive modeling
+**## Project Workflow** - 1. Data extraction and exploratory analysis using SQL, 2. Data cleaning and feature engineering in Python,3. Exploratory Data Analysis (EDA) with visualizations,4. Predictive modeling using Logistic Regression,5. Insights generation and healthcare recommendation.
+**📊 Key Insights** - * Previous hospital admissions are the strongest predictor of readmission. * Elderly patients have a higher likelihood of being readmitted. * Clinical history has more impact on readmission risk than demographic factors. * Gender showed minimal influence compared to medical features.
+**📌 Recommendations** - * Prioritize follow-up care for patients with multiple prior admissions. * Strengthen discharge planning for elderly patients. * Use predictive insights to identify high-risk patients early
+✅ **Outcome** - The project demonstrates an end-to-end data analysis workflow, combining technical analysis with healthcare insights to support data-driven decision-making.
